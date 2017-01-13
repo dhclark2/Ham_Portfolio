@@ -237,6 +237,10 @@ ul.menu-click {
   transform: translateX(-50%) translateY(-50%);
 }
 
+.rowemail {
+  padding: 30px;
+}
+
 .big-title h1 {
   text-transform: uppercase;
   padding: 0 0 0.2em;
